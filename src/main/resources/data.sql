@@ -1,0 +1,1 @@
+insert into course(id,name,age) values (11,'fahim',25)
